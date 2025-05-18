@@ -1,0 +1,109 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Test Todo",
+      "description": "This is a test todo",
+      "dueDate": "2024-03-20T00:00:00.000Z",
+      "dueTime": "2024-03-20T12:00:00.000Z",
+      "priority": "High",
+      "completed": false,
+      "createdAt": "2024-03-19T00:00:00.000Z"
+    },
+    {
+      "id": "4aee",
+      "title": "Hello",
+      "description": "sdas",
+      "priority": "Low",
+      "completed": true,
+      "dueDate": "2025-05-18T16:00:00.000Z",
+      "dueTime": "2025-05-17T19:00:00.000Z",
+      "createdAt": "2025-05-18T13:48:12.420Z"
+    },
+    {
+      "id": "2983",
+      "title": "Finish WakeApp",
+      "description": "sds",
+      "priority": "Low",
+      "completed": false,
+      "dueDate": "2025-05-19T16:00:00.000Z",
+      "dueTime": "2025-05-17T16:20:00.000Z",
+      "createdAt": "2025-05-18T14:03:18.612Z"
+    },
+    {
+      "id": "9e85",
+      "title": "sda",
+      "description": "sda",
+      "priority": "High",
+      "completed": false,
+      "dueDate": "2025-05-19T16:00:00.000Z",
+      "dueTime": "2025-05-17T16:40:00.000Z",
+      "createdAt": "2025-05-18T13:56:19.199Z"
+    },
+    {
+      "id": "4567",
+      "title": "CMSC132 LE3",
+      "description": "",
+      "priority": "High",
+      "completed": false,
+      "dueDate": "2025-05-21T16:00:00.000Z",
+      "dueTime": "2025-05-19T04:15:00.000Z",
+      "createdAt": "2025-05-18T17:41:55.594Z"
+    },
+    {
+      "id": "182b",
+      "title": "Comm 12 Final Presentation",
+      "description": "",
+      "priority": "High",
+      "completed": false,
+      "dueDate": "2025-05-18T16:00:00.000Z",
+      "dueTime": "2025-05-19T05:00:00.000Z",
+      "createdAt": "2025-05-18T17:43:41.052Z"
+    },
+    {
+      "id": "c197",
+      "title": "Stat 106",
+      "description": "",
+      "priority": "Mid",
+      "completed": false,
+      "dueDate": "2025-05-20T16:00:00.000Z",
+      "createdAt": "2025-05-18T17:54:59.982Z"
+    },
+    {
+      "id": "3a1e",
+      "title": "CMSC129 react defense",
+      "description": "",
+      "priority": "High",
+      "completed": false,
+      "dueDate": "2025-05-18T16:00:00.000Z",
+      "createdAt": "2025-05-18T17:55:12.630Z"
+    },
+    {
+      "id": "6b12",
+      "title": "CMSC125 lab defense",
+      "description": "",
+      "priority": "High",
+      "completed": false,
+      "dueDate": "2025-05-19T16:00:00.000Z",
+      "createdAt": "2025-05-18T17:55:28.566Z"
+    },
+    {
+      "id": "b6d9",
+      "title": "CMSC141",
+      "description": "",
+      "priority": "Mid",
+      "completed": false,
+      "dueDate": "2025-05-29T16:00:00.000Z",
+      "createdAt": "2025-05-18T17:55:36.653Z"
+    },
+    {
+      "id": "2ba9",
+      "title": "Comm12",
+      "description": "",
+      "priority": "High",
+      "completed": false,
+      "dueDate": "2025-05-19T16:00:00.000Z",
+      "createdAt": "2025-05-18T17:55:45.590Z"
+    }
+  ]
+}
