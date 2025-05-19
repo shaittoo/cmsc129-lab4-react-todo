@@ -6,7 +6,7 @@ import TaskItem from './TaskItem';
 interface TaskListProps {
   todos: Todo[];
   onEdit: (todo: Todo) => void;
-  onDelete: (id: number) => void;
+  onDelete: (id: string) => void;
   onToggleDone: (todo: Todo) => void;
   getPriorityColor: (priority: Priority) => string;
 }

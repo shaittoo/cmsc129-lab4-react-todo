@@ -40,7 +40,7 @@ const TodoList: React.FC = () => {
   });
   const [editingTodo, setEditingTodo] = useState<Todo | null>(null);
   const [deleteDialogOpen, setDeleteDialogOpen] = useState(false);
-  const [todoToDelete, setTodoToDelete] = useState<number | null>(null);
+  const [todoToDelete, setTodoToDelete] = useState<string | null>(null);
   const [sortBy, setSortBy] = useState<SortOption>('dateAdded');
   const [addModalOpen, setAddModalOpen] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
@@ -228,7 +228,7 @@ const TodoList: React.FC = () => {
             todos={paginatedTodos}
             onEdit={setEditingTodo}
             onDelete={id => {
-              setTodoToDelete(id);
+              setTodoToDelete(String(id));
               setDeleteDialogOpen(true);
             }}
             onToggleDone={async todo => {
